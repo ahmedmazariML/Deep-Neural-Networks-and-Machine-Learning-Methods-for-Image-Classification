@@ -1,3 +1,6 @@
+
+# Master 1 Project at University of Paris Descartes 5, France
+
 # Deep-Neural-Networks-and-Machine-Learning-Methods-for-Image-Classification
 
 Recently, deep learning models have drastically outperformed benchmark results on miscellaneous datasets. It’s has become 
