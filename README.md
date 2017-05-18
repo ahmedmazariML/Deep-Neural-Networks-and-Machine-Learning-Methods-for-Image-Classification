@@ -1,5 +1,5 @@
 
-# Master 1 Project at University of Paris Descartes 5, France
+# Master 1 Project at University of Paris Descartes 5, France. 2016
 
 # Deep-Neural-Networks-and-Machine-Learning-Methods-for-Image-Classification
 
